@@ -1,0 +1,18 @@
+# 核心依赖
+pandas>=2.1.0
+openpyxl>=3.1.2
+python-dotenv>=1.0.0
+click>=8.1.7
+
+# LLM 相关（根据需要添加）
+# anthropic>=0.18.0
+# openai>=1.0.0
+# langchain>=0.1.0
+
+# 开发依赖
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.10.0
+flake8>=6.1.0
+mypy>=1.6.0
+ipython>=8.17.0
